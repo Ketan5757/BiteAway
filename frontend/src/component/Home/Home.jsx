@@ -9,6 +9,9 @@ const Home = () => {
                 <p className='z-10 text-blue-500 text-xl lg:text-4xl'>Delicious food, delivered fast—right to your door.</p>
 
             </div>
+            <div className='cover absolute top-0 left-0 right-0'>
+
+            </div>
 
         </section>
 
