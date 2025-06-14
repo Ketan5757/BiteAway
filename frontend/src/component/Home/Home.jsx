@@ -1,0 +1,19 @@
+import React from 'react'
+
+const Home = () => {
+  return (
+    <div className=''>
+        <section className='banner -z-50 relative flex flex-col justify-center items-center'>
+            <div className='w-[50vw] z-10 text-center'>
+                <p className='text-2xl lg:text-6xl font-bold z-10 py-5'>BiteAway</p>
+                <p className='z-10 text-blue-500 text-xl lg:text-4xl'>Delicious food, delivered fast—right to your door.</p>
+
+            </div>
+
+        </section>
+
+    </div>
+  )
+}
+
+export default Home
