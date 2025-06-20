@@ -3,4 +3,40 @@ export const TopMeals=[
         image:"https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=1600",
         title:"Pizza"
     },
+    {
+        image:"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?_gl=1*1ime0i8*_ga*MTMwNTIyNTM5LjE3NDk5Nzk2MjM.*_ga_8JE65Q40S6*czE3NTA0MjQ1NDAkbzMkZzEkdDE3NTA0MjQ2NDYkajU0JGwwJGgw",
+        title:"Burger"
+    },
+    {
+        image:"https://images.pexels.com/photos/803963/pexels-photo-803963.jpeg?_gl=1*15e2miu*_ga*MTMwNTIyNTM5LjE3NDk5Nzk2MjM.*_ga_8JE65Q40S6*czE3NTA0MjQ1NDAkbzMkZzEkdDE3NTA0MjQ3MzUkajQzJGwwJGgw",
+        title:"Pasta"
+    },
+    {
+        image:"https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?_gl=1*a1w6gi*_ga*MTMwNTIyNTM5LjE3NDk5Nzk2MjM.*_ga_8JE65Q40S6*czE3NTA0MjQ1NDAkbzMkZzEkdDE3NTA0MjQ4NTIkajUxJGwwJGgw",
+        title:"Sandwich"
+    },
+    {
+        image:"https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?_gl=1*118j7xc*_ga*MTMwNTIyNTM5LjE3NDk5Nzk2MjM.*_ga_8JE65Q40S6*czE3NTA0MjQ1NDAkbzMkZzEkdDE3NTA0MjQ5MzIkajM3JGwwJGgw",
+        title:"Pan Cake"
+    },
+    {
+        image:"https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?_gl=1*bntoog*_ga*MTMwNTIyNTM5LjE3NDk5Nzk2MjM.*_ga_8JE65Q40S6*czE3NTA0MjQ1NDAkbzMkZzEkdDE3NTA0MjU1NTckajM0JGwwJGgw",
+        title:"Noodles"
+    },
+    {
+        image:"https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?_gl=1*k8hdin*_ga*MTMwNTIyNTM5LjE3NDk5Nzk2MjM.*_ga_8JE65Q40S6*czE3NTA0MjQ1NDAkbzMkZzEkdDE3NTA0MjU2MTQkajM5JGwwJGgw",
+        title:"Samosa"
+    },
+    {
+        image:"https://images.pexels.com/photos/3620705/pexels-photo-3620705.jpeg?_gl=1*1wjzw9v*_ga*MTMwNTIyNTM5LjE3NDk5Nzk2MjM.*_ga_8JE65Q40S6*czE3NTA0MjQ1NDAkbzMkZzEkdDE3NTA0MjU3MDYkajIwJGwwJGgw",
+        title:"Sushi"
+    },
+    {
+        image:"https://images.pexels.com/photos/19396433/pexels-photo-19396433.jpeg?_gl=1*sescqq*_ga*MTMwNTIyNTM5LjE3NDk5Nzk2MjM.*_ga_8JE65Q40S6*czE3NTA0MjQ1NDAkbzMkZzEkdDE3NTA0MjU3OTIkajIkbDAkaDA.",
+        title:"Schnitzel"
+    },
+    {
+        image:"https://images.pexels.com/photos/1907229/pexels-photo-1907229.jpeg?_gl=1*w1q92*_ga*MTMwNTIyNTM5LjE3NDk5Nzk2MjM.*_ga_8JE65Q40S6*czE3NTA0MjQ1NDAkbzMkZzEkdDE3NTA0MjU4NDgkajM2JGwwJGgw",
+        title:"Ramen"
+    },
 ]
