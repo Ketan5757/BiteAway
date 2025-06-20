@@ -25,6 +25,9 @@ const Home = () => {
           <p className='text-2xl font-semibold text-gray-600 py-3 pb-10'>Top Meals</p>
           <MultiItemCarousel/>
         </section>
+        <section className='px-5 lg:px-20 '> 
+          <h1 className='text-2xl font-semibold  text-gray-600 py-3'>Top-Rated Restaurants Near You</h1>
+        </section>
 
     </div>
   )
