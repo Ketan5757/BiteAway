@@ -1,6 +1,7 @@
 import { Grid } from '@mui/material'
 import React from 'react'
 import LocationOnIcon from '@mui/icons-material/LocationOn';
+import CalendarTodayIcon from '@mui/icons-material/CalendarToday';
 
 const RestaurantDetails = () => {
   return (
@@ -38,6 +39,12 @@ const RestaurantDetails = () => {
                     <span>
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi doloremque, placeat, dignissimos vero odio ab doloribus officia 
                         repudiandae ullam totam deserunt dolor quam voluptate iusto fugiat numquam quisquam tempora quas?
+                    </span>
+                </p>
+                <p className='text-gray-600 flex items-center gap-3'>
+                    <CalendarTodayIcon/>
+                    <span>
+                        Mon-Sun 9:00 AM -11:30 PM(Today)
                     </span>
                 </p>
 
